@@ -1,3 +1,3 @@
-# ICML25-Visualization-Results
+# README
 
 ![Figure 4](Figure_4.png)
