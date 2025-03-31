@@ -1,3 +1,3 @@
 # README
 
-![Figure 4](Figure_4.png)
+![Figure 4](f4.png)
